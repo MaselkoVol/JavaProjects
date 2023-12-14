@@ -1,0 +1,14 @@
+03:00:20.870 [main] INFO  command.AddCommand - Ticket was added succefully
+03:00:20.872 [main] INFO  consoleMenu.ConsoleController - Command executed: add nameOfVacation
+03:00:30.332 [main] INFO  command.DeleteCommand - Ticket was removed succesfully
+03:00:30.332 [main] INFO  consoleMenu.ConsoleController - Command executed: delete nameOfVacation
+18:49:22.077 [main] FATAL consoleMenu.ConsoleController - There is no command like this
+18:51:14.551 [main] FATAL consoleMenu.ConsoleController - There is no command like this
+18:51:26.661 [main] ERROR command.SortCommand - Can't sort by this parameter
+18:51:26.669 [main] INFO  consoleMenu.ConsoleController - Command executed: add nameOfVacation
+18:52:20.938 [main] FATAL consoleMenu.ConsoleController - There is no command like this
+18:52:28.216 [main] ERROR command.SortCommand - Can't sort by this parameter
+18:52:28.219 [main] INFO  consoleMenu.ConsoleController - Command executed: add nameOfVacation
+18:52:33.405 [main] FATAL consoleMenu.ConsoleController - There is no command like this
+09:10:21.507 [main] FATAL consoleMenu.ConsoleController - There is no command like this
+09:13:34.197 [main] FATAL consoleMenu.ConsoleController - There is no command like this

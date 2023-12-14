@@ -1,0 +1,6 @@
+100: BazukaDroid
+100: ChainsawDroid
+100: HealerDroid
+100: LaserDroid
+100: PistolDroid
+100:TankDroid
