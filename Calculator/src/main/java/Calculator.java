@@ -9,10 +9,10 @@ import java.net.URI;
 public class Calculator extends JFrame implements ActionListener, KeyListener{
     private boolean disabled = false;
     private final Random random = new Random();
-    private final Sound SOUND_1 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\Calculator\\calculatorSound1.wav");
-    private final Sound SOUND_2 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\Calculator\\calculatorSound2.wav");
-    private final Sound SOUND_3 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\Calculator\\calculatorSound3.wav");
-    private final Sound SOUND_4 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\Calculator\\calculatorSound4.wav");
+    private final Sound SOUND_1 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\JavaProjects\\Calculator\\calculatorSound1.wav");
+    private final Sound SOUND_2 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\JavaProjects\\Calculator\\calculatorSound2.wav");
+    private final Sound SOUND_3 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\JavaProjects\\Calculator\\calculatorSound3.wav");
+    private final Sound SOUND_4 = new Sound("C:\\Users\\User\\IdeaProjects\\PP\\JavaProjects\\Calculator\\calculatorSound4.wav");
     private final Sound[] SOUNDS = {SOUND_1, SOUND_2, SOUND_3, SOUND_4};
     private final JTextField textField;
     private  JButton[] Buttons = new JButton[25];
